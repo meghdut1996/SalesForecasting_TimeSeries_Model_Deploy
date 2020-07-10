@@ -165,14 +165,15 @@ def main():
             st.balloons()
             
             
+            
+
 if __name__=='__main__':
     main()
 
 
 
 
-Model_name=st.sidebar.selectbox("Select Model",("ARIMA Model","AR Model","MA Model"))
-# st.write(Model_name)
+
 
 
 
